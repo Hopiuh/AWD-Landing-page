@@ -10,11 +10,6 @@
         "link": "./notification bell"
     },
     {
-        "title": "responsive",
-        "description": "A responsive website.",
-        "link": "./responsive"
-    },
-    {
         "title": "calculator",
         "description": "A simple calculator with a simple design.",
         "link": "./calc"
