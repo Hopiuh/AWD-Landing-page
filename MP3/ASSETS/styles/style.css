@@ -1,0 +1,72 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  background-image: url('bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: azure;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-left: 100px;
+}
+button {
+  width: 130px; 
+  height: 50px; 
+  font-size: 16px; 
+  transition: color 0.5s;
+  color: azure;
+}
+
+.box {
+  width: 350px;
+  height: 350px;
+  border: 8px solid blue;
+  border-radius: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: top 0.5s, background-color 0.5s, border-color 0.5s;
+  color: white; /* Add this line */
+}
+
+
+.monday {
+  background-color: #30001a;
+}
+
+.tuesday {
+  background-color: #520229;
+}
+
+.wednesday {
+  background-color: #730437;
+}
+
+.thursday {
+  background-color: #950646;
+}
+
+.friday {
+  background-color: #b60854;
+}
+
+.saturday {
+  background-color: #d80a63;
+}
+
+.sunday {
+  background-color: #f90c71;
+}
+
+
+button {
+  transition: color 0.5s;
+}

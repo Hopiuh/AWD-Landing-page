@@ -1,0 +1,38 @@
+[
+    {
+        "title": "resume",
+        "description": "A little something that tells me about myself and my achievements.",
+        "link": "./resume"
+    },
+    {
+        "title": "notification bell",
+        "description": "Just a notification bell that outputs the number of clicks.",
+        "link": "./notification bell"
+    },
+    {
+        "title": "responsive",
+        "description": "A responsive website.",
+        "link": "./responsive"
+    },
+    {
+        "title": "calculator",
+        "description": "A simple calculator with a simple design.",
+        "link": "./calc"
+    },
+    {
+        "title": "jumping letters",
+        "description": "Letters with a jumping effect when clicked.",
+        "link": "./jumping letters"
+    },
+    {
+        "title": "changing color box",
+        "description": "A box that changes colors whenever the user clicks a certain shade.",
+        "link": "./MP3"
+    },
+    {
+        "title": "gallery",
+        "description": "Gallery of local makeup for everyday use.",
+        "link": "./gallery"
+    }
+    
+]
