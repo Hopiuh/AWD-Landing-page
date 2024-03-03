@@ -1,0 +1,22 @@
+[
+    {
+        "title": "resume",
+        "description": "Create captivating background animations to add visual intrigue to your web projects.",
+        "link": "./resume"
+    },
+    {
+        "title": "notification bell",
+        "description": "Develop a fun and dynamic effect with letters that jump, bringing a playful touch to your website.",
+        "link": "./notification bell"
+    },
+    {
+        "title": "responsive",
+        "description": "Craft a notification system using bells, enhancing user engagement and interaction.",
+        "link": "./responsive"
+    },
+    {
+        "title": "calculator",
+        "description": "Implement a stylish indicator to enhance the user experience while scrolling through content.",
+        "link": "./calc"
+    }
+]
